@@ -1,5 +1,5 @@
 # 👋 Hi, my name is **Yaroslav Stopenchuk**! 
-## I`m a *Junior Front-End Developer* from Wroclaw
+## I'm a *Junior Front-End Developer* from Wroclaw
 ### Check my website: [yaroslav-stopenchuk-portfolio.com](https://portfolio-yaroslav-stopenchuk.herokuapp.com/)
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
